@@ -57,11 +57,6 @@ Start the server
   npm start
 ```
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ## Running Tests
 
 To run tests, run the following command
@@ -73,7 +68,7 @@ To run tests, run the following command
 
 ## Demo
 
-Insert gif or link to demo
+[Live Demo](https://razorpay-payment-gateway-angular.vercel.app/)
 
 
 ## Tech Stack
