@@ -19,7 +19,7 @@ WARNING- do not expose `key_secret` in frontend project.
 Clone the project
 
 ```bash
-  git clone razor-pay-payment-gateway
+  git clone https://github.com/dnyaneshwargiri/razorpay-payment-gateway-angular
 ```
 
 Go to frontend the project directory
